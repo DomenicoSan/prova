@@ -1,4 +1,6 @@
-This is a file created in GitHub!
+ùThis is a file created in GitHub!
 Now I'm modifing it!
 
 Let's see what happen...
+
+Adesso sto modificando dal terminale
